@@ -1,5 +1,7 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
-🎓 I am Michael Canales a Data Science Fellow at the Knowledge House.
+🙋‍♂️ I am Michael 
+🌱 I am currently a Data Science Fellow at the Knowledge House.
+
 ## 🛠️ Skills
 
 ### Languages and skills
